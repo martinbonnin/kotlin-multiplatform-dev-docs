@@ -14,7 +14,7 @@ Here you will learn how to create and run your first Kotlin Multiplatform applic
 
 ## Create the project with a wizard
 
-1. Open the [Kotlin Multiplatform wizard](https://kmp.jetbrains.com).
+1. Open the <a href="https://kmp.jetbrains.com" target="_blank">Kotlin Multiplatform wizard</a>.
 2. On the **New project** tab, change the project name to "GreetingKMP" and the project ID to "com.jetbrains.greeting".
 3. Ensure that the **Android** and **iOS** options are selected.
 4. For iOS, choose the **Do not share UI** option to keep the UI native.
